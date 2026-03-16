@@ -1,3 +1,3 @@
 ---
-title: Moja strona 
+title: Moja strona Maja :)
 ---
